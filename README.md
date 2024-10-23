@@ -14,6 +14,16 @@ pip intall -r requirements.txt
 pip intall requests
 ```
 
+## Запуск програми
+
+```jsx
+python main.py
+```
+
+Відео із запуском програми 
+
+https://drive.google.com/file/d/12eHgvYmlxvnSa9BChtCAGpqOKCwALmfb/view?usp=sharing
+
 ## Особливості
 
 Цей код використовує бібліотеку requests, щоб зробити запит на сайт together Ai, там використовується модель Лама 3.
